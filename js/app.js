@@ -123,7 +123,7 @@ function noResultado(){
     limpiarHTML();
     const noResultado = document.createElement('div');
     noResultado.classList.add('alerta', 'error');
-    noResultado.textContent = 'No hay resultados';
+    noResultado.textContent = 'No hay resultados, intenta con otras características';
     resultado.appendChild(noResultado);
 }
 
