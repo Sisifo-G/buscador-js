@@ -1,5 +1,5 @@
 # Buscador-JS 🚀
-Buscador de acuerdo a diversos criterios de búsqueda con Js
+Realizar búsquedas de acuerdo a diversos criterios seleccionados por el usuario
 # Construido con 🛠️
 
     HTML
